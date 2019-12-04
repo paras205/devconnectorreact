@@ -1,0 +1,6 @@
+{
+	"mongoURI": "mongodb+srv://paras123:paras123@devconnector-rtg9f.mongodb.net/test?retryWrites=true&w=majority",
+	"jwtSecret": "MySECRET",
+	"githubClientId": "2af9fe069ad4626bdf80",
+	"githubSecret": "a458191dbdbdc0b53f37d570aac0a212c050770c"
+}
